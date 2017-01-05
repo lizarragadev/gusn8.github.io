@@ -1,0 +1,45 @@
+# Site settings
+title: Gustavo Lizárraga
+name: Gustavo Lizárraga
+description: "UI/UX Designer, Front-end & Mobile Dev"
+biography-1: "Organizer GDG Android Bolivia, blogger en www.miramicodigo.com y miembro del WTM Android Bolivia." 
+biography-2: "Desarrollo aplicaciones móviles en la plataforma Android e iOS." 
+biography-3: "Manejo/uso en plataformas y frameworks como: NodeJS, AngularJS, Python, Firebase, Bots y otras yerbas."
+biography-4: "Dicto cursos de Android (free|paid), conferencista en temas tecnologicos y me gusta ayudar|enseñar a personas de escasos recursos que tengan ganas de aprender."
+baseurl: ""
+url: ""
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  Gusn8
+facebook_username: Gusn8
+twitter_username: Gusn8_
+google_plus_username: GustavoLizarraga
+linkedin_username: Gusn8
+instagram_username:  Gusn8
+messenger_username:  Gusn8
+whatsapp_number: 591 77752810
+blog_url: "www.miramicodigo.com"
+email: lizarraga.gux@gmail.com
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "imgs/avatar.jpg"
+
+
+front_img: yes
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
